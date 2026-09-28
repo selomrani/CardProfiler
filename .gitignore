@@ -9,6 +9,12 @@ __pycache__/
 
 # Personal notes
 docs/project_guide.md
+docs/brief_project.md
+
+
+
+
+
 
 # MLflow
 mlruns/
