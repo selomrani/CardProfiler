@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Secrets
+.env
+
+# Personal notes
+docs/project_guide.md
+
+# MLflow
+mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow runtime
+airflow.db
+airflow.cfg
+airflow_local_settings.py
+standalone_admin_password.txt
+logs/
+plugins/
+*.pid
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / OS
+.idea/
+.DS_Store
